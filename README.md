@@ -645,36 +645,6 @@ Track these metrics:
 - API costs
 - SQL performance in BigQuery
 
----
-
-## 📄 Package Contents
-
-This package includes:
-
-**Core Tool:**
-- `automated_informatica_converter.py` - The main conversion tool
-
-**Test Examples:**
-- `test_mapping.xml` - Sales tax calculation test
-- `test_mapping_2_customers.xml` - Customer segmentation test
-
-**Generated Outputs (Test 1):**
-- `test_mapping_bigquery.sql` - Generated SQL
-- `test_mapping_lineage.md` - Data lineage
-- `test_mapping_markdown.md` - Structured analysis
-- `test_mapping_full_response.md` - Complete details
-
-**Generated Outputs (Test 2):**
-- `test_mapping_2_customers_bigquery.sql` - Generated SQL
-- `test_mapping_2_customers_lineage.md` - Data lineage
-- `test_mapping_2_customers_markdown.md` - Structured analysis
-- `test_mapping_2_customers_full_response.md` - Complete details
-
-**Documentation:**
-- `README.md` - This comprehensive guide
-- `VISUAL_WORKFLOW_GUIDE.md` - Visual workflow and diagrams
-
----
 
 ## ✅ Summary
 
