@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+ENV/
+
+# API Keys
+.env
+*.key
+
+# Output files
+output/
+outputs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Generated outputs
+*_bigquery.sql
+*_lineage.md
+*_markdown.md
+*_full_response.md
